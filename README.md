@@ -1,5 +1,12 @@
 # JH 알고리즘 스터디
 
+## Member
+
+|박재홍|이진형|
+|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/83321727?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/70304727?s=400&v=4" height=100/>|
+|[@jaehong5915](https://github.com/jaehong5915)|[@jinhyungrhee](https://github.com/jinhyungrhee)|
+
 ## RULE
 
 1. 
